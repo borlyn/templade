@@ -47,6 +47,7 @@ GEM
       activesupport (>= 3.0.0)
     arel (4.0.2)
     atomic (1.1.14)
+    bcrypt (3.1.6-x86-mingw32)
     bcrypt-ruby (3.0.1-x86-mingw32)
     bootstrap-sass (3.1.1.0)
       sass (~> 3.2)
@@ -165,7 +166,7 @@ PLATFORMS
 
 DEPENDENCIES
   activeadmin!
-  bcrypt-ruby (~> 3.0.0)
+  bcrypt (~> 3.1.0)
   bootstrap-sass
   jbuilder (~> 1.2)
   jquery-rails
