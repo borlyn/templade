@@ -48,3 +48,4 @@ end
 gem 'bootstrap-sass'
 
 gem 'activeadmin', github: 'gregbell/active_admin'
+gem 'protected_attributes'
